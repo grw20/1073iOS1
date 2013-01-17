@@ -12,7 +12,9 @@
 
 @property (nonatomic, strong) IBOutlet UILabel * label;
 @property (nonatomic, strong) IBOutlet UIButton * button;
+@property (nonatomic, strong) IBOutlet UIButton * button2;
 
 -(IBAction)clicked:(id)sender;
+-(IBAction)clicked2:(id)sender;
 
 @end

@@ -33,8 +33,15 @@
 
 
 -(IBAction)clicked:(id)sender{
-    [_label setText:@"I WAS CLICKED"];
-    [_button setHidden:YES];
+    if([_label.text isEqualToString:@"I WAS CLICKED"]){
+        [_label setText:@"Hey There"];
+    }
+    else{
+        [_label setText:@"I WAS CLICKED"];
+    }
+}
+-(IBAction)clicked2:(id)sender{
+    [_label setText:@"Uh Oh, you just broke me"];
 }
 
 
