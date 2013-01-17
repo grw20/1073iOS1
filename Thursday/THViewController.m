@@ -41,7 +41,7 @@
     }
 }
 -(IBAction)clicked2:(id)sender{
-    [_label setText:@"Uh Oh, you just broke me"];
+    [_label setText:@"Never. Ever. Touch the Big Red Button!"];
 }
 
 
