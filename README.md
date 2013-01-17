@@ -1,14 +1,14 @@
 This is an example README.md
 
-David Evans / dse4@pitt.edu
+Geoffrey Wolf / grw20@pitt.edu
 ==================
 
 Three Facts About Me
 ---
 
-*   I was born in Oakland, just a few blocks from the Cathedral
-*   I have two dogs.
-*   I can't stand when people whistle in public.
+*   I was born in Harrisburg, PA
+*   I'm an Extra Class Amateur Radio Operator (AB3LS is my callsign)
+*   I'm fluent in Morse Code
 
 ---
 
